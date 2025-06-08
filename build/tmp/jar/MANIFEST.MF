@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: doip.custom.simulation.Main
+Class-Path: doip-simulation-2.0.0.jar doip-simulation-api-1.1.0.jar doip
+ -library-2.0.0.jar starcode88-jutils-1.0.2.jar log4j-core-2.19.0.jar lo
+ g4j-api-2.19.0.jar junit-jupiter-params-5.7.1.jar junit-jupiter-engine-
+ 5.7.1.jar junit-jupiter-api-5.7.1.jar junit-platform-engine-1.7.1.jar j
+ unit-platform-commons-1.7.1.jar junit-jupiter-5.7.1.jar apiguardian-api
+ -1.1.0.jar opentest4j-1.2.0.jar
+
